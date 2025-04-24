@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="mypGMsca13ZEwCByqSfz">
-    <mxGraphModel>
+    <mxGraphModel dx="790" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="330" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-13" value="管理端系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-14" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-15" value="管理员登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-16" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="COfLvNBTQRHZL0cv3FlG-14" target="COfLvNBTQRHZL0cv3FlG-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="310" as="sourcePoint" />
+            <mxPoint x="380" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="COfLvNBTQRHZL0cv3FlG-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="200" as="sourcePoint" />
+            <mxPoint x="160" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="410" width="840" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-20" value="用户端系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="180" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-21" value="用户注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-22" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-23" value="用户基本信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-24" value="体质信息录入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-25" value="体质信息查看" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="940" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-26" value="最新体质信息查看" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="860" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-27" value="所有体质信息查看" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="950" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-28" value="体质信息变化情况查看" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-29" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="765" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-30" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="COfLvNBTQRHZL0cv3FlG-26" target="COfLvNBTQRHZL0cv3FlG-25">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="570" y="800" as="sourcePoint" />
+            <mxPoint x="730" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-33" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="COfLvNBTQRHZL0cv3FlG-27" target="COfLvNBTQRHZL0cv3FlG-25">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="570" y="910" as="sourcePoint" />
+            <mxPoint x="440" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-34" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="COfLvNBTQRHZL0cv3FlG-28">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="570" y="1000" as="sourcePoint" />
+            <mxPoint x="430" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
