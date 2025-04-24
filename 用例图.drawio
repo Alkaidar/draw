@@ -64,19 +64,19 @@
         <mxCell id="COfLvNBTQRHZL0cv3FlG-29" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="765" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="COfLvNBTQRHZL0cv3FlG-30" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="COfLvNBTQRHZL0cv3FlG-26" target="COfLvNBTQRHZL0cv3FlG-25">
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-30" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="COfLvNBTQRHZL0cv3FlG-26" target="COfLvNBTQRHZL0cv3FlG-25">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="570" y="800" as="sourcePoint" />
             <mxPoint x="730" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="COfLvNBTQRHZL0cv3FlG-33" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="COfLvNBTQRHZL0cv3FlG-27" target="COfLvNBTQRHZL0cv3FlG-25">
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-33" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="COfLvNBTQRHZL0cv3FlG-27" target="COfLvNBTQRHZL0cv3FlG-25">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="570" y="910" as="sourcePoint" />
             <mxPoint x="440" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="COfLvNBTQRHZL0cv3FlG-34" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="COfLvNBTQRHZL0cv3FlG-28">
+        <mxCell id="COfLvNBTQRHZL0cv3FlG-34" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="COfLvNBTQRHZL0cv3FlG-28">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="570" y="1000" as="sourcePoint" />
             <mxPoint x="430" y="980" as="targetPoint" />
