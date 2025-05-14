@@ -35,7 +35,7 @@
           <mxGeometry x="200" y="1020" width="1060" height="840" as="geometry" />
         </mxCell>
         <mxCell id="FQD1zHUw6WI440xkweCA-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="1110" width="850" height="90" as="geometry" />
+          <mxGeometry x="260" y="1110" width="980" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FQD1zHUw6WI440xkweCA-22" value="JWT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="1125" width="120" height="60" as="geometry" />
@@ -44,22 +44,22 @@
           <mxGeometry x="700" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FQD1zHUw6WI440xkweCA-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="1230" width="840" height="100" as="geometry" />
+          <mxGeometry x="260" y="1240" width="980" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FQD1zHUw6WI440xkweCA-25" value="Nacos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="1250" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FQD1zHUw6WI440xkweCA-26" value="Feign" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="1250" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FQD1zHUw6WI440xkweCA-27" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="1240" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FQD1zHUw6WI440xkweCA-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="1360" width="980" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FQD1zHUw6WI440xkweCA-29" value="服务中心" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="1250" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FQD1zHUw6WI440xkweCA-31" value="SpringBoot" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="1380" width="120" height="60" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="590" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FQD1zHUw6WI440xkweCA-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="275" y="1609" width="665" height="171" as="geometry" />
+          <mxGeometry x="260" y="1620" width="980" height="171" as="geometry" />
         </mxCell>
         <mxCell id="FQD1zHUw6WI440xkweCA-39" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="1660" width="120" height="60" as="geometry" />
@@ -122,16 +122,16 @@
           <mxGeometry x="280" y="630" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FQD1zHUw6WI440xkweCA-56" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;用户层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="290" y="1139" width="100" height="30" as="geometry" />
+          <mxGeometry x="290" y="1140" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FQD1zHUw6WI440xkweCA-60" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;服务层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="1255" width="100" height="30" as="geometry" />
+          <mxGeometry x="280" y="1275" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FQD1zHUw6WI440xkweCA-64" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;开发层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="300" y="1445" width="100" height="30" as="geometry" />
+          <mxGeometry x="280" y="1450" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FQD1zHUw6WI440xkweCA-67" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;存储层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="300" y="1675" width="100" height="30" as="geometry" />
+          <mxGeometry x="280" y="1690.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FQD1zHUw6WI440xkweCA-68" value="开发框架" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="1380" width="120" height="60" as="geometry" />
